@@ -12,7 +12,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Nextly — Modern Landing Page",
-  description: "A modern responsive landing page built with Next.js and Tailwind CSS.",
+  description: "A modern responsive landing page built by Kalpesh Ghediya .",
 };
 
 export default function RootLayout({

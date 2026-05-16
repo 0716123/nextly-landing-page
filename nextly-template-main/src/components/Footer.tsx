@@ -64,10 +64,10 @@ export function Footer() {
               <a href="#" className="transition hover:text-white" aria-label="Facebook">
                 <Facebook />
               </a>
-              <a href="#" className="transition hover:text-white" aria-label="Instagram">
+              <a href="https://www.instagram.com/kalpesh_ghediya_777/" className="transition hover:text-white" aria-label="Instagram">
                 <Instagram />
               </a>
-              <a href="https://linkedin.com/" target="_blank" rel="noopener noreferrer" className="transition hover:text-white" aria-label="LinkedIn">
+              <a href="https://www.linkedin.com/in/ghediya-kalpesh-0aaa36283/" target="_blank" rel="noopener noreferrer" className="transition hover:text-white" aria-label="LinkedIn">
                 <Linkedin />
               </a>
             </div>
@@ -75,7 +75,7 @@ export function Footer() {
         </div>
 
         <div className="py-6 text-sm text-center text-slate-500">
-          © {new Date().getFullYear()} Nextly. Built with Next.js and Tailwind CSS.
+          © {new Date().getFullYear()} Nextly. Built by Kalpesh Ghediya.
         </div>
       </Container>
     </div>

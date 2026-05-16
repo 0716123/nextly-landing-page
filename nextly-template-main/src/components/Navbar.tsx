@@ -14,7 +14,7 @@ export const Navbar = () => {
 
   return (
     <div className="w-full bg-slate-950/80 backdrop-blur-xl border-b border-slate-800/70">
-      <nav className="container relative flex flex-wrap items-center justify-between p-6 mx-auto lg:justify-between xl:px-0">
+      <nav className="container relative flex flex-wrap items-center justify-between px-4 py-4 sm:px-6 sm:py-6 mx-auto lg:justify-between xl:px-0">
         <Link href="/" className="flex items-center space-x-3 text-xl font-semibold text-white">
           <Image src="/img/logo.svg" width={30} height={30} alt="Nextly" className="w-8" />
           <span>Nextly</span>
