@@ -64,10 +64,10 @@ export function Footer() {
               <a href="#" className="transition hover:text-white" aria-label="Facebook">
                 <Facebook />
               </a>
-              <a href="https://www.instagram.com/kalpesh_ghediya_777/" className="transition hover:text-white" aria-label="Instagram">
+              <a href="#" className="transition hover:text-white" aria-label="Instagram">
                 <Instagram />
               </a>
-              <a href="https://www.linkedin.com/in/ghediya-kalpesh-0aaa36283/" target="_blank" rel="noopener noreferrer" className="transition hover:text-white" aria-label="LinkedIn">
+              <a href="#" target="_blank" rel="noopener noreferrer" className="transition hover:text-white" aria-label="LinkedIn">
                 <Linkedin />
               </a>
             </div>
